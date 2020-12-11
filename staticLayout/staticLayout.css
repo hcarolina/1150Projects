@@ -1,0 +1,26 @@
+/* General setup */
+
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+html div{
+    width:80vw;
+    height:80vh;
+    background:#ccc;
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
+}
+
+img {
+    max-width:100%;
+    height:auto;
+    max-height:100%;
+    }
+/* HEADER */
+
+/* BODY */
+
+/* FOOTER */
